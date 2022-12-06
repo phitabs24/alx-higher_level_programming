@@ -19,3 +19,15 @@ Files | Description
 [100-write.py](./100-write.py) | Python script that prints a string with the function write from the sys module
 [101-compile](./101-compile) | Shell script that compiles a Python script file
 [102-magic_calculation.py](./102-magic_calculation.py) | Python function that replicates what a given Python bytecode does
+
+
+
+## Author ##
+
+Achu Philemon Tabufor - Cohort 9
+
+email: phitabs24@gmail.com
+
+LinkedIn: <[LinkedIn]>
+
+[LinkedIn]: https://linkedin.com/achu.philemon

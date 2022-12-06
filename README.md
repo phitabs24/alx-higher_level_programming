@@ -23,4 +23,4 @@ email: phitabs24@gmail.com
 
 LinkedIn: <[LinkedIn]>
 
-[LinkedIn]: https://linkedin.com/achu.philemo
+[LinkedIn]: https://linkedin.com/achu.philemon
